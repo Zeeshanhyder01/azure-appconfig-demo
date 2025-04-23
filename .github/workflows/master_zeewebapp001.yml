@@ -61,4 +61,4 @@ jobs:
           app-name: 'zeewebapp001'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C00227B4AA874202AB1755B8BB5E36B9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1B524E7702A4B298434326FB7C52510 }}
